@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.Switch;
 import android.widget.Toast;
 
-public class ActivityAdd extends AppCompatActivity {
+public class ActivityIncome extends AppCompatActivity {
     String switchCheck = "Once";
     private Switch mMonthlyS;
     private EditText mAmount;
@@ -21,7 +21,7 @@ public class ActivityAdd extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_add);
+        setContentView(R.layout.activity_income);
 
         getDescription();
         getAmount();
@@ -89,9 +89,4 @@ public class ActivityAdd extends AppCompatActivity {
             switchCheck = " Once ";
         }
     }
-
-
 }
-
-
-

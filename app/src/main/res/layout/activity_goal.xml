@@ -19,7 +19,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Expanse"
+            android:text="Goal"
             android:textSize="20dp"
             android:textColor="@color/Background"/>
     </Toolbar>

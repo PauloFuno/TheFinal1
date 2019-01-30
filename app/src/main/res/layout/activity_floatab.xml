@@ -16,4 +16,30 @@
         android:layout_margin="@dimen/fab_margin"
         app:srcCompat="@drawable/ic_add_fab" />
 
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_transaction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@drawable/ic_action_outcome" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_incomes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@drawable/ic_action_income" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_goals"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@drawable/ic_action_goal" />
+
+
+
 </android.support.design.widget.CoordinatorLayout>

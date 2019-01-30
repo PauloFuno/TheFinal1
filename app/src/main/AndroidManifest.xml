@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_w"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ActivityAdd"></activity>
+        <activity android:name=".ActivityGoal"></activity>
+        <activity android:name=".ActivityIncome" />
+        <activity android:name=".ActivityAdd" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
