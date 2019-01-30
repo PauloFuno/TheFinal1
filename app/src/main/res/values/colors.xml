@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5D4037</color>
+    <color name="colorPrimaryDark">#4E342E</color>
+    <color name="colorAccent">#BCAAA4</color>
+    <color name="BackgroundDark">#D7CCC8</color>
+    <color name="Background">#FFF</color>
+    <color name="BackgroundLite">#EFEBE9</color>
+    <color name="Buy">#4CAF50</color>
+    <color name="DontBuy">#F44336</color>
+    <color name="Maybe">#FFEB3B</color>
+</resources>
